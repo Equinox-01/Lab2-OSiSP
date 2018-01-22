@@ -1,0 +1,120 @@
+# depslib dependency file v1.0
+1506688512 source:c:\ОСиСП\lab2\lab2\main.cpp
+	<tchar.h>
+	<windows.h>
+	<vector>
+	<string>
+	<cmath>
+	"functions.h"
+
+1506298205 source:d:\ОСиСП №2\Лабораторные\lab2\lab2\main.cpp
+	<tchar.h>
+	<windows.h>
+	<vector>
+	<string>
+	<iostream>
+	<cmath>
+	"functions.h"
+
+1506297603 source:d:\ОСиСП №2\Лабораторные\lab2\lab2\functions.cpp
+	<fstream>
+	<vector>
+	<cstring>
+	<string>
+
+1506295809 d:\ОСиСП №2\Лабораторные\lab2\lab2\functions.h
+
+1506355078 source:c:\ОСиСП\lab2\lab2\functions.cpp
+	<fstream>
+	<vector>
+	<cstring>
+	<string>
+	<iostream>
+
+1506295810 c:\ОСиСП\lab2\lab2\functions.h
+
+1506696870 source:c:\ОСиСП\backup\lab2\lab2\functions.cpp
+	<fstream>
+	<vector>
+	<cstring>
+	<string>
+	<iostream>
+
+1506709089 source:c:\ОСиСП\backup\lab2\lab2\main.cpp
+	<tchar.h>
+	<windows.h>
+	<vector>
+	<string>
+	<cmath>
+	"functions.h"
+
+1506295810 c:\ОСиСП\backup\lab2\lab2\functions.h
+
+1506696872 source:d:\ОСиСП №2\Лабораторные\lab2\lab2\lab2\functions.cpp
+	<fstream>
+	<vector>
+	<cstring>
+	<string>
+	<iostream>
+
+1506863894 source:d:\ОСиСП №2\Лабораторные\lab2\lab2\lab2\main.cpp
+	<tchar.h>
+	<windows.h>
+	<vector>
+	<string>
+	<cmath>
+	"functions.h"
+
+1506295810 d:\ОСиСП №2\Лабораторные\lab2\lab2\lab2\functions.h
+
+1506696872 source:c:\ОСиСП\lab2\functions.cpp
+	<fstream>
+	<vector>
+	<cstring>
+	<string>
+	<iostream>
+
+1506884993 source:c:\ОСиСП\lab2\main.cpp
+	<tchar.h>
+	<windows.h>
+	<vector>
+	<string>
+	<cmath>
+	"functions.h"
+
+1506295810 c:\ОСиСП\lab2\functions.h
+
+1506696872 source:d:\installer files\lab2\lab2\functions.cpp
+	<fstream>
+	<vector>
+	<cstring>
+	<string>
+	<iostream>
+
+1506884993 source:d:\installer files\lab2\lab2\main.cpp
+	<tchar.h>
+	<windows.h>
+	<vector>
+	<string>
+	<cmath>
+	"functions.h"
+
+1506295810 d:\installer files\lab2\lab2\functions.h
+
+1506696872 source:d:\lab2\functions.cpp
+	<fstream>
+	<vector>
+	<cstring>
+	<string>
+	<iostream>
+
+1516579772 source:d:\lab2\main.cpp
+	<tchar.h>
+	<windows.h>
+	<vector>
+	<string>
+	<cmath>
+	"functions.h"
+
+1506295810 d:\lab2\functions.h
+
